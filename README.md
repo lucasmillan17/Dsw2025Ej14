@@ -40,3 +40,5 @@ __Agregar al README lista de estudiantes que participaron y la comisión. Al fin
 __Código de ejemplo para importar los productos__ \
 `var json = await File.ReadAllTextAsync("products.json");` \
 `var products = JsonSerializer.Deserialize<List<Product>>(json);`
+
+Alumnos: Castro, María de la Paz; Millán, Lucas Santiago
